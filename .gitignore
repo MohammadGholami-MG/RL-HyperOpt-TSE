@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+*.env
+*.yml
+
+# Cached or generated files
+*.pkl
+*.h5
+*.joblib
+
+# Output folders
+results/
+data/
