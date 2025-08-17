@@ -76,17 +76,13 @@ conda activate rl-hyperopt-tse_env
 ## Usage
 Run preprocessing and training:
 ```bash
-python src/data_fetching.py
-python src/models.py
-python src/preprocessing.py
-python src/rl_agent.py
 python src/training_pipeline.py
 
 ```
 
 Or open the Jupyter notebooks:
 ```bash
-jupyter notebooks/Main_pipeline.ipynb
+jupyter notebook notebooks/Main_pipeline.ipynb
 
 ```
 
